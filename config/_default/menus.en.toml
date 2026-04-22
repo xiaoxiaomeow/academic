@@ -1,0 +1,11 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Publications"
+pageRef = "publications"
+identifier = "oqpe0DhLQi"
+weight = 9_999
+
+[[footer]]
+none = "none"

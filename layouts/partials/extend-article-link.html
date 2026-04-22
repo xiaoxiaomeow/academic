@@ -1,0 +1,45 @@
+{{ with .Params.authors }}
+<div class="mt-1 mb-1 text-sm text-neutral-700 dark:text-neutral-300">
+	{{ $authorsData := hugo.Data.authors }}
+	{{ $names := slice }}
+	{{ range . }}
+		{{ $data := index $authorsData . }}
+		{{ if and $data $data.website }}
+			{{ $names = $names | append (printf `<a href="%s" target="_blank" rel="noopener noreferrer" class="font-medium hover:underline hover:underline-offset-2">%s</a>` $data.website $data.name) }}
+		{{ else if $data }}
+			{{ $names = $names | append (printf `<span class="font-medium">%s</span>` $data.name) }}
+		{{ else }}
+			{{ $names = $names | append (printf `<span class="font-medium">%s</span>` .) }}
+		{{ end }}
+	{{ end }}
+	{{ delimit $names ", " | safeHTML }}
+</div>
+{{ end }}
+{{ if or .Params.links .Params.publishedIn }}
+<div class="flex flex-wrap items-center gap-2 mt-2 mb-2 not-prose">
+	{{ with .Params.links }}
+	{{ range . }}
+	<a href="{{ .url }}" target="_blank" rel="noopener" class="relative z-10 inline-flex items-center gap-1 text-sm font-medium px-1 py-0.8 rounded border
+              border-primary-400 dark:border-primary-500
+              text-primary-600 dark:text-primary-400
+              hover:bg-primary-100 dark:hover:bg-primary-900
+              transition-colors no-underline leading-none">
+		{{ .name }}
+	</a>
+	{{ end }}
+	{{ end }}
+	{{ with .Params.publishedIn }}
+	<span class="text-sm text-neutral-700 dark:text-neutral-300">
+		Published in
+		{{ with .url }}
+		<a href="{{ . }}" target="_blank" rel="noopener noreferrer"
+			class="font-medium text-neutral-700 dark:text-neutral-300 hover:underline hover:underline-offset-2">
+			{{ $.Params.publishedIn.name }}
+		</a>
+		{{ else }}
+		<span class="font-medium text-neutral-700 dark:text-neutral-300">{{ .name }}</span>
+		{{ end }}
+	</span>
+	{{ end }}
+</div>
+{{ end }}

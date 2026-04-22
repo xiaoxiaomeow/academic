@@ -1,0 +1,20 @@
+{
+	"name": "George Barmpalias",
+	"image": "",
+	"website": "http://barmpalias.net/",
+	"bio": "Professor at Insitute of Software, Chinese Academy of Sciences; my master supervisor",
+	"social": [
+		{
+			"email": "barmpalias@gmail.com"
+		},
+		{
+			"orcid": "https://orcid.org/0000-0002-9921-760X"
+		},
+		{
+			"arxiv": "https://arxiv.org/search/?query=barmpalias&searchtype=all&source=header"
+		},
+		{
+			"google-scholar": "https://scholar.google.com/citations?user=xP3iu14AAAAJ"
+		}
+	]
+}

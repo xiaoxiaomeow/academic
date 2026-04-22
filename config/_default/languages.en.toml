@@ -1,0 +1,36 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Xiaoyan Zhang"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "January 2006"
+logo = "default"
+description = ""
+
+  [params.author]
+  name = "Xiaoyan Zhang"
+  email = "xiaoxiaoccat@gmail.com"
+  image = "photo.jpg"
+  imageQuality = ""
+  headline = "PhD student"
+  bio = "PhD student at National University of Singapore"
+
+    [[params.author.links]]
+    email = "xiaoxiaoccat@gmail.com"
+
+    [[params.author.links]]
+    orcid = "https://orcid.org/0009-0008-4772-2138"
+
+    [[params.author.links]]
+    arxiv = "https://arxiv.org/a/xiaoyan_z_1.html"
+
+    [[params.author.links]]
+    google-scholar = "https://scholar.google.com/citations?user=eQrXKwcAAAAJ"
+
+["params.author"]
+name = "Xiaoyan Zhang"

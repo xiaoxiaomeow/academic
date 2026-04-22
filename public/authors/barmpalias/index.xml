@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barmpalias on Zhang Xiaoyan</title>
+    <link>http://localhost:1313/academic/authors/barmpalias/</link>
+    <description>Recent content in Barmpalias on Zhang Xiaoyan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>xiaoxiaoccat@gmail.com (Zhang Xiaoyan)</managingEditor>
+    <webMaster>xiaoxiaoccat@gmail.com (Zhang Xiaoyan)</webMaster>
+    <copyright>© 2026 Zhang Xiaoyan</copyright>
+    <lastBuildDate>Wed, 22 Apr 2026 23:38:55 +0800</lastBuildDate><atom:link href="http://localhost:1313/academic/authors/barmpalias/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Compression of Enumerations and Gain</title>
+      <link>http://localhost:1313/academic/publications/multi-author/</link>
+      <pubDate>Wed, 22 Apr 2026 23:38:55 +0800</pubDate>
+      <author>xiaoxiaoccat@gmail.com (Zhang Xiaoyan)</author>
+      <guid>http://localhost:1313/academic/publications/multi-author/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
