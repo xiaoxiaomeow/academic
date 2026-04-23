@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiaoxiaomeow.github.io/academic/sitemap.xml
