@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S_zhang on Xiaoyan Zhang</title>
-    <link>https://xiaoxiaomeow.github.io/academic/authors/s_zhang/</link>
+    <link>http://localhost:64564/academic/authors/s_zhang/</link>
     <description>Recent content in S_zhang on Xiaoyan Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>xiaoxiaoccat@gmail.com (Xiaoyan Zhang)</managingEditor>
     <webMaster>xiaoxiaoccat@gmail.com (Xiaoyan Zhang)</webMaster>
     <copyright>© 2026 Xiaoyan Zhang</copyright>
-    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaoxiaomeow.github.io/academic/authors/s_zhang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64564/academic/authors/s_zhang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A variant of Chaitin&#39;s Omega function</title>
-      <link>https://xiaoxiaomeow.github.io/academic/publications/a_variant_of_chaitins_omega_function/</link>
+      <link>http://localhost:64564/academic/publications/a_variant_of_chaitins_omega_function/</link>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <author>xiaoxiaoccat@gmail.com (Xiaoyan Zhang)</author>
-      <guid>https://xiaoxiaomeow.github.io/academic/publications/a_variant_of_chaitins_omega_function/</guid>
+      <guid>http://localhost:64564/academic/publications/a_variant_of_chaitins_omega_function/</guid>
       <description></description>
       
     </item>

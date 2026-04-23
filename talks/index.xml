@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Xiaoyan Zhang</title>
-    <link>https://xiaoxiaomeow.github.io/academic/talks/</link>
+    <link>http://localhost:64564/academic/talks/</link>
     <description>Recent content in Talks on Xiaoyan Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>xiaoxiaoccat@gmail.com (Xiaoyan Zhang)</managingEditor>
     <webMaster>xiaoxiaoccat@gmail.com (Xiaoyan Zhang)</webMaster>
     <copyright>© 2026 Xiaoyan Zhang</copyright>
-    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaoxiaomeow.github.io/academic/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64564/academic/talks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Variant Of Chaitin&#39;s Omega function</title>
-      <link>https://xiaoxiaomeow.github.io/academic/talks/2026_singapore/</link>
+      <link>http://localhost:64564/academic/talks/2026_singapore/</link>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <author>xiaoxiaoccat@gmail.com (Xiaoyan Zhang)</author>
-      <guid>https://xiaoxiaomeow.github.io/academic/talks/2026_singapore/</guid>
+      <guid>http://localhost:64564/academic/talks/2026_singapore/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Computable oneway functions on the reals</title>
-      <link>https://xiaoxiaomeow.github.io/academic/talks/2025_hangzhou/</link>
+      <link>http://localhost:64564/academic/talks/2025_hangzhou/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <author>xiaoxiaoccat@gmail.com (Xiaoyan Zhang)</author>
-      <guid>https://xiaoxiaomeow.github.io/academic/talks/2025_hangzhou/</guid>
+      <guid>http://localhost:64564/academic/talks/2025_hangzhou/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Computable one-way functions on the reals</title>
-      <link>https://xiaoxiaomeow.github.io/academic/talks/2024_singapore_comp/</link>
+      <link>http://localhost:64564/academic/talks/2024_singapore_comp/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <author>xiaoxiaoccat@gmail.com (Xiaoyan Zhang)</author>
-      <guid>https://xiaoxiaomeow.github.io/academic/talks/2024_singapore_comp/</guid>
+      <guid>http://localhost:64564/academic/talks/2024_singapore_comp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dimensionality and randomness</title>
-      <link>https://xiaoxiaomeow.github.io/academic/talks/2024_singapore_math/</link>
+      <link>http://localhost:64564/academic/talks/2024_singapore_math/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
       <author>xiaoxiaoccat@gmail.com (Xiaoyan Zhang)</author>
-      <guid>https://xiaoxiaomeow.github.io/academic/talks/2024_singapore_math/</guid>
+      <guid>http://localhost:64564/academic/talks/2024_singapore_math/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Compression of enumerations and gain</title>
-      <link>https://xiaoxiaomeow.github.io/academic/talks/2023_hangzhou/</link>
+      <link>http://localhost:64564/academic/talks/2023_hangzhou/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
       <author>xiaoxiaoccat@gmail.com (Xiaoyan Zhang)</author>
-      <guid>https://xiaoxiaomeow.github.io/academic/talks/2023_hangzhou/</guid>
+      <guid>http://localhost:64564/academic/talks/2023_hangzhou/</guid>
       <description></description>
       
     </item>
