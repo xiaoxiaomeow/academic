@@ -7,5 +7,11 @@ pageRef = "publications"
 identifier = "oqpe0DhLQi"
 weight = 9_999
 
+[[main]]
+name = "Talks"
+pageRef = "talks"
+identifier = "iWi0uGIYCS"
+weight = 9_999
+
 [[footer]]
 none = "none"
