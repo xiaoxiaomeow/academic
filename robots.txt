@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /
-Sitemap: http://localhost:64564/academic/sitemap.xml
+Allow: /
+Sitemap: https://xiaoxiaomeow.github.io/academic/sitemap.xml
