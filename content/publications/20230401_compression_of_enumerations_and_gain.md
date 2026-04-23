@@ -62,4 +62,4 @@ Does every r.e. set have a strong gainless compression?
 
 ### Relevant contents
 
-- Talk - [Compression of enumerations and gain](/~zhangxy/talk/compression-of-enumerations-and-gain/)
+- Talk - [Compression of enumerations and gain](/academic/talks/2023_hangzhou/)

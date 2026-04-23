@@ -44,3 +44,7 @@ We also discuss the connection between \(f\) and other variants of Omega.
 ### Open problems
 
 - Is there \(x\) such that \(f(x)\) is rational / computable / right-c.e.?
+
+### Relevant contents
+
+- Talk - [A variant of Chaitin's Omega function](/academic/talks/2026_singapore/)

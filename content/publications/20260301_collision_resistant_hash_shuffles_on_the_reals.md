@@ -58,3 +58,7 @@ For each noncomputable r.e. set \(A\) there is a total computable nowhere inject
 - f is oneway and collision-resistant relative to almost all oracles
 - f is not oneway and not collision-resistant relative to \(A\).
 {{< /theorem >}}
+
+### Relevant contents
+
+- Talk - [Computable oneway functions on the reals](/academic/talks/2025_hangzhou/) at Hangzhou Delta23

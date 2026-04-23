@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 buildDrafts = false
-buildFuture = false
+buildFuture = true
 enableEmoji = true
 baseURL = "https://xiaoxiaomeow.github.io/academic/"
 

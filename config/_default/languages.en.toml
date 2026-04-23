@@ -32,5 +32,4 @@ description = ""
     [[params.author.links]]
     google-scholar = "https://scholar.google.com/citations?user=eQrXKwcAAAAJ"
 
-["params.author"]
 name = "Xiaoyan Zhang"

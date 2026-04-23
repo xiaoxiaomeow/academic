@@ -40,3 +40,7 @@ There is a path-incompressible proper tree that does not wtt-compute any path-in
 ### Open problem
 
 Is there a path-incompressible proper tree that does not compute any path-incompressible perfect tree?
+
+### Relevant contents
+
+- Talk - [Dimensionality and randomness](/academic/talks/2024_singapore_math/)

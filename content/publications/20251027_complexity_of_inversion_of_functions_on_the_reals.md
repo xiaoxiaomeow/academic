@@ -95,4 +95,4 @@ There is a partial computable injective left-oneway function.
 
 ### Relevant contents
 
-- Talk - [Computable one-way functions on the reals](/~zhangxy/talk/computable-one-way-functions-on-the-reals/)
+- Talk - [Computable oneway functions on the reals](/academic/talks/2025_hangzhou/) at Hangzhou Delta23

@@ -47,4 +47,5 @@ There is a random-preserving total surjective Turing functional \(f\) such that 
 
 ### Relevant contents
 
-- Talk - [Computable one-way functions on the reals](/~zhangxy/talk/computable-one-way-functions-on-the-reals/)
+- Talk - [Computable one-way functions on the reals](/academic/talks/2024_singapore_comp/) at Singapore School of Computing seminar
+- Talk - [Computable oneway functions on the reals](/academic/talks/2025_hangzhou/) at Hangzhou Delta23

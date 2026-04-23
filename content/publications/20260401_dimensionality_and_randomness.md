@@ -77,6 +77,7 @@ For any recursive order \(g\), every random real computes a perfect pruned incom
 
 - How to define a deep \(\Pi^0_2\) class or the depth for higher arithmetical classes? 
 
-### Links and resources
+### Relevant contents
 
+- Talk - [Dimensionality and randomness](/academic/talks/2024_singapore_math/)
 - A related paper by Laurent Bienvenu, Christopher P. Porter, [Deep \(\Pi^0_1\) Classes](https://arxiv.org/abs/1403.0450)
